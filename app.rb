@@ -10,7 +10,7 @@ get '/goodbye' do
 	erb :goodbye
 
 end
-get '/data' do
-	erb :data
+get '/date' do
+	erb :date
 end
 end
