@@ -11,6 +11,6 @@ get '/goodbye' do
 
 end
 get '/data' do
-	erb: data
+	erb :data
 end
 end
